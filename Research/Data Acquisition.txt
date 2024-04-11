@@ -1,0 +1,11 @@
+FACTORS AFFECTING THE PRICE OF BITCOIN
+    Supply and Demand: Fluctuations in demand and limited supply impact Bitcoin's price.
+    Investor Sentiment: Market perception and confidence influence Bitcoin's value.
+    Regulatory Environment: Government regulations and legal frameworks affect Bitcoin's price.
+    Market Manipulation: Large traders can manipulate prices through various tactics.
+    Integration and Adoption: Acceptance by businesses and institutions drives Bitcoin's value.
+    Technological Developments: Advances in technology and network upgrades impact Bitcoin's price.
+    Macroeconomic Factors: Economic indicators and global events indirectly affect Bitcoin's value.
+    Media Coverage: News stories and public perception influence Bitcoin's market behavior.
+    Security Concerns: Cybersecurity threats and vulnerabilities can undermine Bitcoin's value.
+    Competition: Rival cryptocurrencies and market trends impact Bitcoin's relative valuation.
